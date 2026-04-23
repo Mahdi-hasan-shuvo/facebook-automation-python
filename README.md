@@ -373,4 +373,4 @@ If this project saved you time or helped you learn, a star costs nothing and mea
 
 *Built by [Mahdi Hasan Shuvo](https://mahdi-hasan-shuvo.github.io/) · Open Source from Bangladesh 🇧🇩*
 
-</div>
+</div> 

@@ -4,8 +4,8 @@ from time import sleep
 from concurrent.futures import ThreadPoolExecutor as tep
 
 __formate_coki__ = lambda x: {cookie.split('=', 1)[0].strip(): cookie.split('=', 1)[1].strip() for cookie in x.split(';') if '=' in cookie}
-coki='ps_l=1;ps_n=1;datr=Nx-aaLDvBQzhafdePBbSTj7Z;sb=Nx-aaGjEZAKQ-EEm4ebQRwuO;pas=100001244871589%3APdDKHAUGTH;wl_cbv=v2%3Bclient_version%3A2896%3Btimestamp%3A1755503925;vpd=v1%3B905x400x2;dpr=1.100000023841858;locale=en_US;c_user=100001244871589;presence=C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1756149571810%2C%22v%22%3A1%7D;fr=1u0ByTWObp1Fc0wr9.AWdwNJT_jRobL3yx3-RzaEMGUVnYr2ZYQ2IiTYqoCSrPZrT9s2g.BorLdM..AAA.0.0.BorLdM.AWeNVrtLwRj1mLu-nkhxcw3u7ms;xs=43%3A7GNNnjVvzVMLFw%3A2%3A1756149567%3A-1%3A-1%3A%3AAcV_xbuH7Og5mSRnBVTfnHDRyKOz-E2QtMzad0Pxlw;wd=1197x902;'
-headers = {
+coki='ps_l=1;ps_n=1;datr=NLwRj1mLu-'
+headers 
     'accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7',
     'accept-language': 'en-US,en;q=0.9',
     'cache-control': 'no-cache',

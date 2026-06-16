@@ -1,7 +1,6 @@
 from mahdix import *
 import re,requests,os,sys
 from concurrent.futures import ThreadPoolExecutor
-
 sec=requests.Session()
 clear()
 
